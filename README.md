@@ -18,5 +18,10 @@ I majorly write on Golang and Nodejs.
 
 <br />
 
+<img align="left" alt="iaiw3br's Github Stats" src="https://github-readme-stats-schadokar.vercel.app/api?username=iaiw3br&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/iaiw3br/
 [telegram]: https://t.me/iaiw3br
