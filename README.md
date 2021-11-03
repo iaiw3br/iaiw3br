@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone 👋. I am Artem Ivanov, a Software developer.
 
 <!--
 **iaiw3br/iaiw3br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
