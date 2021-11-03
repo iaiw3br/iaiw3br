@@ -1,16 +1,22 @@
 ### Hello Everyone 👋. I am Artem Ivanov, a Software developer.
 
-<!--
-**iaiw3br/iaiw3br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in the Software industry for 2+ years.
+I majorly write on Golang and Nodejs.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on telegram bot youtube parser.
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on Golang Projects.
+- 🤔 I’m looking for help with Golang project structure.
+- 💬 Ask me about nodejs or golang
+- 📫 How to reach me: Check the Connect with me section.
+- ⚡ Fun fact: The moon has moonquakes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="iaiw3br | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iaiw3br | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/iaiw3br/
+[telegram]: https://t.me/iaiw3br
