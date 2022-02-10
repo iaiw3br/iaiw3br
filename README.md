@@ -1,4 +1,4 @@
-### Hello Everyone 👋. I am Artem Ivanov, a Software developer.
+### Hello Everyone 👋. I am Artem Ivanov, a Backend developer.
 
 I am in the Software industry for 2+ years.
 I majorly write on Golang and Nodejs.
