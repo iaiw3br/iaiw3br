@@ -1,5 +1,5 @@
 ## Hello there, My name is Artem, and welcome to my GitHub profile!
-## Below you can see some of my projects.
+Below you can see some of my projects.
 
 
 ### [Emergency-service](https://github.com/iaiw3br/emergency-messages)
