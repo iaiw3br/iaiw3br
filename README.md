@@ -10,15 +10,6 @@ Below you can see some of my projects.
 > A service that sends messages in case of an emergency situations.
 
 
-### [Planetary System simulation](https://github.com/iaiw3br/space)
-
-<a href="https://github.com/iaiw3br/space">
-<img src="https://github.com/iaiw3br/space/raw/main/assets/space-photo.webp" width="600px"></a>
-
-> Create your own galaxy with star and planets.
-
-
-
 ### [Getting prices](https://github.com/iaiw3br/finding-prices)
 
 <a href="https://github.com/iaiw3br/finding-prices">
