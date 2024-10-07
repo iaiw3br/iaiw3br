@@ -2,10 +2,10 @@
 Below you can see some of my projects.
 
 
-### [Emergency-service](https://github.com/iaiw3br/emergency-messages)
+### [Diabetes-Monitoring-Telegram-Bot](https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot)
 
-<a href="https://github.com/iaiw3br/emergency-messages">
-<img src="https://github.com/iaiw3br/emergency-messages/raw/master/assets/banner.png" width="600px"></a>
+<a href="https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot">
+<img src="https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot/raw/main/assets/Diabetes-Monitoring-Telegram-Bot.png" width="600px"></a>
 
 > A service that sends messages in case of an emergency situations.
 
