@@ -23,4 +23,4 @@ Below you can see some of my projects.
 <a href="https://github.com/iaiw3br/vscode-create-migration">
 <img src="https://github.com/iaiw3br/vscode-create-migration/raw/master/images/banner.gif" width="600px"></a>
 
-> Vscode extension to create migrations.
+> Developed a VS Code extension to streamline the creation and execution of migration files, simplifying the process for developers with easy-to-use commands.
