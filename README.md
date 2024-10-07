@@ -15,7 +15,7 @@ Below you can see some of my projects.
 <a href="https://github.com/iaiw3br/finding-prices">
 <img src="https://github.com/iaiw3br/finding-prices/raw/master/assets/banner.gif" width="600px"></a>
 
-> Getting prices from websites.
+> A project to track and compare MacBook prices from various stores over six months, helping make a data-driven decision to buy at the best price.
 
 
 ### [Migration](https://github.com/iaiw3br/vscode-create-migration)
