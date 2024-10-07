@@ -1,6 +1,4 @@
 ## Hello there, My name is Artem, and welcome to my GitHub profile!
-Below you can see some of my projects.
-
 
 ### [Diabetes-Monitoring-Telegram-Bot](https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot)
 
