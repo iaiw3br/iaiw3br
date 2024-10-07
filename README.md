@@ -7,7 +7,7 @@ Below you can see some of my projects.
 <a href="https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot">
 <img src="https://github.com/iaiw3br/Diabetes-Monitoring-Telegram-Bot/raw/main/assets/Diabetes-Monitoring-Telegram-Bot.png" width="600px"></a>
 
-> A service that sends messages in case of an emergency situations.
+> This project is designed to help monitor and manage critical diabetes-related data for a friend’s daughter who has diabetes.
 
 
 ### [Getting prices](https://github.com/iaiw3br/finding-prices)
